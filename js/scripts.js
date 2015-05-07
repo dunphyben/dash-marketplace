@@ -29,6 +29,7 @@ $(document).ready(function() {
 	$("#text-4").delay(7200).fadeIn(1000);
 	$("#text-5").delay(9300).fadeIn(1000);
 	$("#pulse").delay(9300).fadeTo(1000, .6);
+	$("#text-6").delay(13300).fadeIn(1000);
 	$("#pulse").delay(1000).fadeTo(1000, 1.0);
 	$("#pulse").delay(1000).fadeTo(1000, .6);
 	$("#pulse").delay(1000).fadeTo(1000, 1.0);
