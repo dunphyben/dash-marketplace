@@ -6,6 +6,10 @@ a {
   color: #005dae;
   hover: #b10dc9;
 }
+#learn {
+	text-decoration: none;
+	color: #93A281;
+}
 body {
   font-family: sans-serif;
   background: #e7e5d9;
