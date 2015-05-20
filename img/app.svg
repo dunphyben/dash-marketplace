@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="131px" height="131px" viewBox="0 0 131 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>hardware-tinted copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="65.5" cy="65.5" r="65.5"></circle>
+        <linearGradient x1="47.2975612%" y1="100%" x2="47.2975616%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CCCCCC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="151.968362%" x2="50%" y2="-49.0495568%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CCCCCC" offset="26.2523293%"></stop>
+            <stop stop-color="#656565" offset="72.5364463%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Landing-Page-2" sketch:type="MSArtboardGroup" transform="translate(-2247.000000, -2610.000000)">
+            <g id="hardware-tinted-copy" sketch:type="MSLayerGroup" transform="translate(2247.000000, 2610.000000)">
+                <mask id="mask-2" sketch:name="background 4" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="background-4" fill="#D8D8D8" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <g id="macs-tinted" mask="url(#mask-2)">
+                    <g transform="translate(14.000000, 13.000000)">
+                        <g id="iMac-2" transform="translate(17.603480, 0.581669)">
+                            <path d="M49.0883303,90.0842556 L43.9194295,97.5569512 L80.4016613,97.5569513 L74.2976336,90.0842556 L49.0883303,90.0842556 Z" id="Path-340" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup"></path>
+                            <rect id="Rectangle-138" fill="url(#linearGradient-4)" sketch:type="MSShapeGroup" x="49.0022118" y="82.2064049" width="25.2643802" height="7.90884932"></rect>
+                            <rect id="bottomScreen" fill="#CCCCCC" sketch:type="MSShapeGroup" x="0" y="65.019867" width="123.497786" height="19.011657"></rect>
+                            <rect id="screenBacking" fill="#7D7D7D" sketch:type="MSShapeGroup" x="0" y="0" width="123.497786" height="73.3849961"></rect>
+                            <rect id="screen" fill="#DBDBDB" sketch:type="MSShapeGroup" x="3.20575218" y="3.19395838" width="116.628317" height="67.681499"></rect>
+                            <path d="M0,2.65459034 C0,1.18850058 1.18078789,0 2.64695389,0 L33.7327701,0 L61.1062102,70.9879876 L60.2381464,70.9879876 L65.7160763,84.0601991 L2.41680715,84.0601991 C1.08204142,84.0601991 0,82.9820476 0,81.6575194 L0,2.65459034 Z" id="screenBacking-2" opacity="0.457089552" fill="#7D7D7D" sketch:type="MSShapeGroup"></path>
+                        </g>
+                        <g id="ipad-2" transform="translate(10.784810, 24.765644)">
+                            <rect id="body" fill="#484646" sketch:type="MSShapeGroup" x="0" y="0" width="49.7583808" height="73.7795185" rx="3.24"></rect>
+                            <ellipse id="Oval-170" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="24.9195787" cy="70.1991601" rx="1.97902651" ry="1.97120851"></ellipse>
+                            <ellipse id="Oval-169" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="24.8791904" cy="4.02287451" rx="0.565436145" ry="0.563202431"></ellipse>
+                            <rect id="screen" fill="#D2D2D2" sketch:type="MSShapeGroup" x="2.34252117" y="7.08025913" width="44.9925618" height="59.6994577"></rect>
+                            <path d="M0,3.24149395 C0,1.45126628 1.44850887,0 3.24131477,0 L20.5993867,0 L44.6795989,73.7795185 L3.24923644,73.7795185 C1.45473271,73.7795185 0,72.3388263 0,70.5380245 L0,3.24149395 Z" id="body-2" opacity="0.5" fill="#7E7E7E" sketch:type="MSShapeGroup"></path>
+                        </g>
+                        <g id="iphone-2" transform="translate(0.449367, 50.206897)">
+                            <rect id="iphone-body" fill="#7D7D7D" sketch:type="MSShapeGroup" x="0" y="0" width="26.0468058" height="52.9423938" rx="3.6"></rect>
+                            <rect id="iphone-screen" fill="#D2D2D2" sketch:type="MSShapeGroup" x="1.43706515" y="6.26008035" width="23.2624921" height="40.4222331"></rect>
+                            <rect id="Rectangle-132" fill="#FFFFFF" sketch:type="MSShapeGroup" x="11.4067046" y="3.13004018" width="3.41302973" height="0.357718877" rx="0.27"></rect>
+                            <ellipse id="Oval-168" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="13.1581278" cy="49.4099199" rx="1.57179001" ry="1.56502009"></ellipse>
+                            <path d="M0,3.5973231 C0,1.61057641 1.60337761,0 3.59910026,0 L5.86771024,0 L22.4524557,52.9423938 L3.60737544,52.9423938 C1.615077,52.9423938 0,51.3290257 0,49.3450708 L0,3.5973231 Z" id="iphone-body-2" opacity="0.510377799" fill="#676666" sketch:type="MSShapeGroup"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

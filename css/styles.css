@@ -6,6 +6,10 @@ a {
   color: #005dae;
   hover: #b10dc9;
 }
+h1 {
+	font-weight: 100;
+	font-size: 40px;
+}
 #learn {
 	text-decoration: none;
 	color: #93A281;
@@ -51,6 +55,11 @@ body {
   position: relative;
   z-index: 5;
 }
+.logo {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
 .vanned {
   z-index: 10;
   position: absolute;
@@ -58,6 +67,13 @@ body {
   left: 50px;
   width: 40%;
   height: auto;
+}
+.vform {
+	margin-top: 70px;
+}
+
+.margtop {
+	margin-top: 60px;
 }
 @media (max-width: 730px) {
   .vanned {
@@ -331,6 +347,33 @@ body {
 
 #footer {
 	margin-top: 75px;
+	font-weight: 100;
+}
+
+#lighter {
+	font-weight: 100;
+}
+#lighter-header {
+	font-weight: 100;
+	margin-top: 80px;
+}
+#lighter-sm {
+	font-weight: 100;
+	font-size: 15px;
+	max-width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+#lighter-sm2 {
+	font-weight: 100;
+	font-size: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+#smaller {
+	max-width: 200px;
 }
 
 
